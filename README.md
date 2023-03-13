@@ -6,6 +6,6 @@ https://replit.com/@KysoLucas/BankAssignment#index.js
 
 https://replit.com/@JoannaYau1996/Forum-Group-Project-05#index.js
 
-3) Slackjack (React) :
+3) Slackjack ( React ) :
 
 https://replit.com/@AquaChan2/SlackjackGroup-2#src/App.jsx
