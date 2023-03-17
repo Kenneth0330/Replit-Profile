@@ -14,6 +14,6 @@ https://replit.com/@AquaChan2/SlackjackGroup-2#src/App.jsx
 
 https://replit.com/@chky/draw#src/App.css
 
-5) Bouncing ball ( Javascript ) 
+5) Bouncing ball ( Javascript )  ** Arrow key to control the paddle
 
 https://replit.com/@chky/bouncing-ball-JS-version
