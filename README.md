@@ -17,3 +17,7 @@ https://replit.com/@chky/draw#src/App.css
 5) Bouncing ball ( Javascript )  ** Arrow key to control the paddle
 
 https://replit.com/@chky/bouncing-ball-JS-version
+
+6) 3D Animation ( Three.js )  
+
+https://replit.com/@chky/threejs
